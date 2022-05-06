@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "296374621106",
+    "project_id": "sixthify-31498",
+    "storage_bucket": "sixthify-31498.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296374621106:android:d985a9b311a0fb85e9caab",
+        "android_client_info": {
+          "package_name": "com.fatih.sixthify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296374621106-io44gq08r5co2gfri1okbc6looog8qi5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQsJabNlAi8C0-avwgP0-TbDAnV1oRPD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296374621106-io44gq08r5co2gfri1okbc6looog8qi5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

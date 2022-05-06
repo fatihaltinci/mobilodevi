@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@drawable/arkaplan"
+    tools:context=".KayitActivity">
+
+
+    <EditText
+        android:id="@+id/kayit_ol_Ad"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Ad:"
+        android:minHeight="48dp"
+        android:textAlignment="center"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="26dp" />
+
+
+    <EditText
+        android:id="@+id/kayit_ol_Soyad"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Soyad:"
+        android:minHeight="48dp"
+        android:textAlignment="center"
+        tools:ignore="TextContrastCheck"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="82dp" />
+
+    <EditText
+        android:id="@+id/kayit_ol_Telefon"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Telefon:"
+        android:minHeight="48dp"
+        android:textAlignment="center"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="137dp" />
+
+    <EditText
+        android:id="@+id/kayit_ol_Mail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Mail Adresi:"
+        android:inputType="textEmailAddress"
+        android:textAlignment="center"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="193dp" />
+
+    <EditText
+        android:id="@+id/kayit_ol_Sifre"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Şifre:"
+        android:inputType="textPassword"
+        android:textAlignment="center"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="250dp" />
+
+    <EditText
+        android:id="@+id/kayit_ol_tekrarSifre"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Şifre Tekrarı:"
+        android:inputType="textPassword"
+        android:textAlignment="center"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="308dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:onClick="kayitOl"
+        android:text="Kayıt Ol"
+        tools:layout_editor_absoluteX="155dp"
+        tools:layout_editor_absoluteY="375dp" />
+
+
+</LinearLayout>

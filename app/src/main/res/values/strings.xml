@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sixthify</string>
+    <string name="title_activity_giris">GirisActivity</string>
+    <string name="tab_play_list">Playlist</string>
+    <string name="tab_song">Şarkılar</string>
+    <string name="tab_player">Oynatıcı</string>
+    <string name="fragment_player">Oynatıcı Fragment</string>
+    <string name="fragment_play_list">Playlist Fragment</string>
+    <string name="fragment_song">Şarkı Fragment</string>
+    <string name="hello_blank_fragment">Boş fragment</string>
+</resources>

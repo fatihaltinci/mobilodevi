@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Fatih/AndroidStudioProjects/Sixthify/app/src/main/res/drawable/arkaplan.xml" value="0.3665" />
+        <entry key="..\:/Users/Fatih/AndroidStudioProjects/Sixthify/app/src/main/res/drawable/ic_baseline_play_arrow.xml" value="0.4745" />
+        <entry key="..\:/Users/Fatih/AndroidStudioProjects/Sixthify/app/src/main/res/drawable/ic_launcher_background.xml" value="0.277" />
+        <entry key="..\:/Users/Fatih/AndroidStudioProjects/Sixthify/app/src/main/res/layout/activity_ana.xml" value="0.2296875" />
+        <entry key="..\:/Users/Fatih/AndroidStudioProjects/Sixthify/app/src/main/res/layout/activity_giris.xml" value="0.340625" />
+        <entry key="..\:/Users/Fatih/AndroidStudioProjects/Sixthify/app/src/main/res/layout/activity_giris2.xml" value="0.42552083333333335" />
+        <entry key="..\:/Users/Fatih/AndroidStudioProjects/Sixthify/app/src/main/res/layout/activity_kayit.xml" value="0.3632246376811594" />
+        <entry key="..\:/Users/Fatih/AndroidStudioProjects/Sixthify/app/src/main/res/layout/activity_main.xml" value="0.22407407407407406" />
+        <entry key="..\:/Users/Fatih/AndroidStudioProjects/Sixthify/app/src/main/res/layout/activity_playlist_tut.xml" value="0.2296875" />
+        <entry key="..\:/Users/Fatih/AndroidStudioProjects/Sixthify/app/src/main/res/layout/bottom_sheet_item.xml" value="0.4166666666666667" />
+        <entry key="..\:/Users/Fatih/AndroidStudioProjects/Sixthify/app/src/main/res/layout/fragment_play_list.xml" value="0.4166666666666667" />
+        <entry key="..\:/Users/Fatih/AndroidStudioProjects/Sixthify/app/src/main/res/layout/fragment_player.xml" value="0.4166666666666667" />
+        <entry key="..\:/Users/Fatih/AndroidStudioProjects/Sixthify/app/src/main/res/layout/fragment_song.xml" value="0.4166666666666667" />
+        <entry key="..\:/Users/Fatih/AndroidStudioProjects/Sixthify/app/src/main/res/layout/play_list_bottom_sheet_dialog.xml" value="0.2717391304347826" />
+        <entry key="..\:/Users/Fatih/AndroidStudioProjects/Sixthify/app/src/main/res/layout/play_list_item.xml" value="0.4166666666666667" />
+        <entry key="..\:/Users/Fatih/AndroidStudioProjects/Sixthify/app/src/main/res/layout/song_item.xml" value="0.2296875" />
+        <entry key="..\:/Users/Fatih/AndroidStudioProjects/Sixthify/app/src/main/res/menu/song_item_menu.xml" value="0.2296875" />
+        <entry key="..\:/Users/Fatih/AndroidStudioProjects/Sixthify/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.277" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
